@@ -71,8 +71,7 @@ The analysis uses the **WhoScored Rating** (a composite score from 0-10 based on
    Their home rating (6.56) is 0.24 points higher than their away rating (6.32).  
    However, this is driven more by their poor away form (6.32, near the bottom of the league) than exceptional home performance (6.56, mid-table).
 
-2. **Only two teams have a negative home-away difference:** Tottenham (-0.11) and Chelsea (-0.02), meaning they perform slightly better away from home.          
-   Tottenham's away advantage is the most significant in the league.
+2. **Only two teams have a negative home-away difference:** Tottenham (-0.11) and Chelsea (-0.02), meaning they perform slightly better away from home.Tottenham's    away advantage is the most significant in the league.
 3. **Crystal Palace is perfectly balanced** (0.00 difference). Their performance is identical home and away.
 
 4. **Strong teams have smaller differences**: Liverpool (+0.19), Manchester City (+0.10), and Arsenal (+0.06) all have positive differences, but they perform well both home and away. Their home advantage exists but is not extreme.
