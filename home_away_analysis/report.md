@@ -61,7 +61,7 @@ The analysis uses the **WhoScored Rating** (a composite score from 0-10 based on
 
 ## Visualization
 
-![Home vs Away Rating Difference](../images/home_away_rating_diff.png)
+![Home vs Away Rating Difference](images/home_away_rating_diff.png)
 
 *Horizontal bar chart showing home-away rating differences. Green bars indicate home dominance, red bars indicate away dominance.*
 
