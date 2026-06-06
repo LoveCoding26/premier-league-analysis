@@ -24,7 +24,7 @@ Data analysis projects using WhoScored data from the **2025/26 Premier League se
 ```
 premier-league-analysis/
 ├── data/ # Raw and processed data
-├── home_away_analysis/ # Home vs Away analysis (notebook, report, images)
+├── home_away_analysis/ # Home vs Away analysis (notebook, report, images，README)
 ├── src/ # Data processing scripts
 ├── .gitignore # Git ignore rules
 ├── requirements.txt
